@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Higher Card",
+      "live": "https://project1-virid-nine.vercel.app/",
+      "git": "https://github.com/SWIRTH9092/highercard",
+      "image": "https://imgur.com/qFUiV4F"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Sue's Gluten Free Bakery",
+      "live": "https://bakery-0v6z.onrender.com",
+      "git": "https://github.com/SWIRTH9092/bakery",
+      "image": "https://imgur.com/AB09qyf"
     }
   ]
