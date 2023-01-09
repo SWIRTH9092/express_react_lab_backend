@@ -9,7 +9,7 @@ const cors = require("cors");
 //-------------------------------
 const projects = require("./projects.json")
 const about = require("./about.json");
-
+const skills = require("./skills.json")
 //-------------------------------
 //   Create our app object
 //-------------------------------
@@ -43,6 +43,15 @@ app. get("/about", (req, res) => {
     // about via JSON
     res.json(about);
 });
+
+//-------------------------------
+//  Route for retrieving skills
+//-------------------------------
+app.get("/skills", (req, res) => {
+    // about via JSON
+    res.json(skills);
+});
+
 
 //-------------------------------
 //   Declare Port variable
