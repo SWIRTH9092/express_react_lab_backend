@@ -1,7 +1,7 @@
 [
     {
       "topic": "Languages",
-      "skills": ["JavaScript", "Python", "Visual Basic", "COBOL", "PL/1", " ", " ", " "]
+      "skills": ["JavaScript", "Python", "Visual Basic", "COBOL", "PL/1", " ", " ", " ", " "]
     },
     {
         "topic": "Data Formats",
@@ -9,11 +9,11 @@
     },
     {
         "topic": "Content Design",
-        "skills": ["Markdown", "HTML", "HTML5", "CSS", "CSS Responsive Design", "Full Crud Applications", "S.O.L.I.D. Principles", " "]
+        "skills": ["Markdown", "HTML", "HTML5", "CSS", "CSS Responsive Design", "Full Crud Applications", "S.O.L.I.D. Principles", "Microsoft Visio", " "]
     },
     {
         "topic": "Frameworks",
-        "skills": ["React", "Express", "EJS (Embedded Javascript", "AJAX", "MVC (Model-View-Controller)", "Ruby on Rails", " "]
+        "skills": ["React", "Express", "EJS (Embedded Javascript", "AJAX", "MVC (Model-View-Controller)", "Ruby on Rails", " ", " "]
     },
     {
         "topic": "Toolbox",
