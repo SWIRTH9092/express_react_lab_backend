@@ -1,26 +1,26 @@
 [
     {
       "topic": "Languages",
-      "skills": ["JavaScript", "Python", "Visual Basic", "COBOL", "PL/1"]
+      "skills": ["JavaScript", "Python", "Visual Basic", "COBOL", "PL/1", " ", " ", " "]
     },
     {
         "topic": "Data Formats",
-        "skills": ["Objects", "Arrays", "JSON", "MongoDB", "Postgres", "Microsoft Access", "Db2", "VSAM"]
+        "skills": ["Objects", "Arrays", "JSON", "MongoDB", "Postgres", "Microsoft Access", "Db2", "VSAM", " "]
     },
     {
         "topic": "Content Design",
-        "skills": ["Markdown", "HTML", "HTML5", "CSS", "CSS Responsive Design", "Full Crud Applications", "S.O.L.I.D. Principles"]
+        "skills": ["Markdown", "HTML", "HTML5", "CSS", "CSS Responsive Design", "Full Crud Applications", "S.O.L.I.D. Principles", " "]
     },
     {
         "topic": "Frameworks",
-        "skills": ["React", "Express", "EJS (Embedded Javascript", "AJAX", "MVC (Model-View-Controller)", "Ruby on Rails"]
+        "skills": ["React", "Express", "EJS (Embedded Javascript", "AJAX", "MVC (Model-View-Controller)", "Ruby on Rails", " "]
     },
     {
         "topic": "Toolbox",
-        "skills": ["GitHub", "VSCode", "Codepen.io", "Codesandbox.io", "CLI", "Node.js", "Postman", "TSO"]
+        "skills": ["GitHub", "VSCode", "Codepen.io", "Codesandbox.io", "CLI", "Node.js", "Postman", "TSO", " "]
     },
     {
         "topic": "Productivity",
-        "skills": ["Zoom", "Webex", "Slack", "Trello", "DrawSQL", "Discord", "Microsoft Office", "Microsoft Visio"]
+        "skills": ["Zoom", "Webex", "Slack", "Trello", "DrawSQL", "Discord", "Microsoft Office", "Microsoft Visio", " "]
     }
   ]
